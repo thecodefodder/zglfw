@@ -1,5 +1,5 @@
 .{
-    .name = .zglfw,
+    .name = "zglfw",
 
     .version = "0.1.0",
 
